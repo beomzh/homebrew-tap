@@ -1,6 +1,6 @@
 cask "polymac" do
-  version "0.2.8"
-  sha256 "85de9c4945c7c5260397b4532aa7214244f79bd11d477f7b1d28eaa5489b928e"
+  version "0.2.11"
+  sha256 "36c3fa2ead8f754be42f334e8fa00784112c42082c9901c30125a3d55f2c1e04"
 
   url "https://github.com/beomzh/PolyMac/releases/download/v#{version}/PolyMac-#{version}.zip"
   name "PolyMac"
